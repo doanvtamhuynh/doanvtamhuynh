@@ -26,21 +26,21 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=doanvtamhuynh&repo=automation_multilogin&theme=radical" />
 </a>   
-<a href="https://github.com/doanvtamhuynh/Barbershop_Management">
+<a href="https://github.com/doanvtamhuynh/petstore">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=doanvtamhuynh&repo=Barbershop_Management&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=doanvtamhuynh&repo=petstore&theme=radical" />
 </a>   
-<a href="https://github.com/doanvtamhuynh/Barbershop_Management">
+<a href="https://github.com/doanvtamhuynh/fakeipwithproxy">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=doanvtamhuynh&repo=Barbershop_Management&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=doanvtamhuynh&repo=fakeipwithproxy&theme=radical" />
 </a>   
-<a href="https://github.com/doanvtamhuynh/Barbershop_Management">
+<a href="https://github.com/doanvtamhuynh/RecognizeObjectInGameCandyCrush">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=doanvtamhuynh&repo=Barbershop_Management&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=doanvtamhuynh&repo=RecognizeObjectInGameCandyCrush&theme=radical" />
 </a>   
-<a href="https://github.com/doanvtamhuynh/Barbershop_Management">
+<a href="https://github.com/doanvtamhuynh/Custom-ROM-AOSP">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=doanvtamhuynh&repo=Barbershop_Management&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=doanvtamhuynh&repo=Custom-ROM-AOSP&theme=radical" />
 </a>   
 
 ---
