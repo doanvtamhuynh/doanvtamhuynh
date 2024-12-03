@@ -19,3 +19,9 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=doanvtamhuynh&label=Profile%20Views&color=11&icon=7&pretty=true)](https://visitcount.itsvg.in)
+
+### 💻Repo
+<a href="https://github.com/doanvtamhuynh/Barbershop_Management">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=doanvtamhuynh&repo=Barbershop_Management&theme=radical" />
+</a>   
