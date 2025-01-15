@@ -22,7 +22,7 @@
 
 ---
 ### 💻Repo :
-<a href="https://github.com/doanvtamhuynh/Custom-ROM-AOSP">
+<a href="https://github.com/doanvtamhuynh/AOSP_CUSTOM_ROM_Releases">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=doanvtamhuynh&repo=AOSP_CUSTOM_ROM_Releases&theme=radical" />
 </a>  
