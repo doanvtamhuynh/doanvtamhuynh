@@ -48,4 +48,4 @@
 </a>    
 
 ---
-[![](https://visitcount.itsvg.in/api?id=doanvtamhuynh&label=Profile%20Views&color=11&icon=7&pretty=true)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=doanvtamhuynh" alt="doanvtamhuynh" /> </p>
