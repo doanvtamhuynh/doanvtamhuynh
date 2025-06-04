@@ -38,9 +38,9 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=doanvtamhuynh&repo=petstore&theme=radical" />
 </a>   
-<a href="https://github.com/doanvtamhuynh/fakeipwithproxy">
+<a href="https://github.com/doanvtamhuynh/pixelexperience_manifest">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=doanvtamhuynh&repo=fakeipwithproxy&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=doanvtamhuynh&repo=pixelexperience_manifest&theme=radical" />
 </a>   
 <a href="https://github.com/doanvtamhuynh/RecognizeObjectInGameCandyCrush">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
