@@ -10,7 +10,7 @@
 
 ---
 ### 🧑‍💻 Developer/Forums :
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/)	[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/doanvtamhuynh) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/) [![XDA-Developers](https://img.shields.io/badge/XDA--Developers-%23AC6E2F.svg?style=flat-square&logo=XDA-Developers&logoColor=white)](https://xdaforums.com/m/doanvtamhuynh.12949444/)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/)	[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/doanvtamhuynh) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23236429/huynh) [![XDA-Developers](https://img.shields.io/badge/XDA--Developers-%23AC6E2F.svg?style=flat-square&logo=XDA-Developers&logoColor=white)](https://xdaforums.com/m/doanvtamhuynh.12949444/)
 
 ---
 ### 📊GitHub Stats :
