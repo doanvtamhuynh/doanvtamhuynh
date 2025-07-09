@@ -22,30 +22,24 @@
 
 ---
 ### 💻Repo :
-<a href="https://github.com/doanvtamhuynh/AOSP_CUSTOM_ROM_Releases">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=doanvtamhuynh&repo=AOSP_CUSTOM_ROM_Releases&theme=radical" />
-</a>  
+<a href="https://github.com/doanvtamhuynh/frameworks_base">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=doanvtamhuynh&repo=frameworks_base&theme=radical" />
+</a>    
 <a href="https://github.com/doanvtamhuynh/Barbershop_Management">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=doanvtamhuynh&repo=Barbershop_Management&theme=radical" />
 </a>   
 <a href="https://github.com/doanvtamhuynh/automation_multilogin">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=doanvtamhuynh&repo=automation_multilogin&theme=radical" />
 </a>   
 <a href="https://github.com/doanvtamhuynh/petstore">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=doanvtamhuynh&repo=petstore&theme=radical" />
 </a>   
 <a href="https://github.com/doanvtamhuynh/pixelexperience_manifest">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=doanvtamhuynh&repo=pixelexperience_manifest&theme=radical" />
 </a>   
-<a href="https://github.com/doanvtamhuynh/RecognizeObjectInGameCandyCrush">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=doanvtamhuynh&repo=RecognizeObjectInGameCandyCrush&theme=radical" />
-</a>    
 
+<a href="https://github.com/doanvtamhuynh/AOSP_CUSTOM_ROM_Releases">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=doanvtamhuynh&repo=AOSP_CUSTOM_ROM_Releases&theme=radical" />
+</a>  
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=doanvtamhuynh" alt="doanvtamhuynh" /> </p>
