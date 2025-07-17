@@ -41,5 +41,6 @@
 <a href="https://github.com/doanvtamhuynh/AOSP_CUSTOM_ROM_Releases">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=doanvtamhuynh&repo=AOSP_CUSTOM_ROM_Releases&theme=radical" />
 </a>  
+
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=doanvtamhuynh" alt="doanvtamhuynh" /> </p>
