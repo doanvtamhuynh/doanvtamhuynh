@@ -23,7 +23,7 @@
 ---
 ### 💻Repo :
 <a href="https://github.com/doanvtamhuynh/ApartmentManage">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=doanvtamhuynh&repo=frameworks_base&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=doanvtamhuynh&repo=ApartmentManage&theme=radical" />
 </a>    
 <a href="https://github.com/doanvtamhuynh/Barbershop_Management">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=doanvtamhuynh&repo=Barbershop_Management&theme=radical" />
