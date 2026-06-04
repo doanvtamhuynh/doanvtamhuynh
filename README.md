@@ -30,15 +30,15 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-╔══════════════════════════════════════════════════════╗
-║  name        : Tam Huynh      ║
-║  location    : Da Nang, Vietnam 🇻🇳                  ║
-║  role        : Software Developer                    ║
-║  focus       : Web · Desktop · Automation · Android ║
-║  languages   : Vietnamese 🇻🇳 · English 🇬🇧           ║
-║  philosophy  : "First solve the problem,             ║
-║                 then write the code."                ║
-╚══════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════╗
+║  name        : Tam Huynh                               ║
+║  location    : Da Nang, Vietnam 🇻🇳                     ║
+║  role        : Software Developer                      ║
+║  focus       : Web · Desktop · Automation · Android    ║
+║  languages   : Vietnamese 🇻🇳 · English 🇬🇧              ║
+║  philosophy  : "First solve the problem,               ║
+║                 then write the code."                  ║
+╚════════════════════════════════════════════════════════╝
 ```
 
 ---
