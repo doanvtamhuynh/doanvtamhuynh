@@ -143,55 +143,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-> ⚙️ **Setup required:** Add GitHub Actions workflow to generate the snake animation. Then replace the image below.
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/doanvtamhuynh/doanvtamhuynh/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/doanvtamhuynh/doanvtamhuynh/output/github-snake.svg"/>
-  <img alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/doanvtamhuynh/doanvtamhuynh/output/github-snake.svg"/>
-</picture>
-
-<details>
-<summary>📋 GitHub Actions workflow to enable snake animation</summary>
-
-```yaml
-# Save as: .github/workflows/snake.yml
-name: Generate Snake Animation
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: doanvtamhuynh
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
-
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 <div align="center">
